@@ -1,0 +1,8 @@
+#goal
+int32 goal_num
+---
+#resoult
+int32 result_num
+---
+#feedback
+int32 current_num
